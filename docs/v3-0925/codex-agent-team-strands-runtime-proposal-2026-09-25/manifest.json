@@ -1,0 +1,41 @@
+{
+  "format": "sha256-manifest.v1",
+  "created_on": "2026-09-25",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1939,
+      "sha256": "93468f4c6114a8a0ae8d8797c64759aaa07aee4bc8329369e80372eed4dd5bda"
+    },
+    {
+      "path": "docs/strands-runtime-foundation-proposal.md",
+      "bytes": 62640,
+      "sha256": "13055aed478ba86541472e6f7f4fddd35507af33ee5c35a09a60dc72acb21ea6"
+    },
+    {
+      "path": "document-checks.json",
+      "bytes": 1279,
+      "sha256": "9662dbbafabcfd47e05623632d353df1dd20b7fd4f98b7af517015555a539a4a"
+    },
+    {
+      "path": "reference/codex-agent-team-integrated-plan.md",
+      "bytes": 39874,
+      "sha256": "797f39c02c98db5dd2eacb658050c6fc314c83dc6d70394c822bcf7cb6290219"
+    },
+    {
+      "path": "reference/codex-agent-team-local-development-handoff.md",
+      "bytes": 56594,
+      "sha256": "549d1a913d873526f5ede25a9ee00769ea72014cbf6d0975b7d930502db6b3c6"
+    },
+    {
+      "path": "reference/role-capability-readiness-design-v0.1.md",
+      "bytes": 29075,
+      "sha256": "91e6b7a180b3ed0f74d0707bb8a181ae3bf7af6fc8a54ac644684139a3e57dce"
+    },
+    {
+      "path": "reference/role-capability-readiness-design-v0.3.md",
+      "bytes": 70169,
+      "sha256": "eab178113002e198ddedb5d6e7798b121ba45b98e834aa2fa075d1fd15ec587e"
+    }
+  ]
+}
