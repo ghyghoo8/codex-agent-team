@@ -1,0 +1,28 @@
+{
+  "name": "codex-agent-team",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Codex Agent Team controlled execution bootstrap",
+  "type": "module",
+  "engines": {
+    "node": "24.16.0",
+    "npm": "11.13.0"
+  },
+  "packageManager": "npm@11.13.0",
+  "scripts": {
+    "dev:server": "node --watch server/index.ts",
+    "start:server": "node dist/server/index.js",
+    "runner:check": "node runner/check.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.ts",
+    "build": "tsc",
+    "check": "npm run typecheck && npm run test && npm run build"
+  },
+  "dependencies": {
+    "fastify": "5.12.5"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.0",
+    "typescript": "7.0.2"
+  }
+}
