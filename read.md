@@ -1,4 +1,5 @@
 一些仓库：
+* harness-sdk：https://strandsagents.com/
 * https://github.com/RocYan98/CodexBoard
 * https://github.com/vastsa/PI-Desktop
 * https://github.com/oceanbase/powercontext
